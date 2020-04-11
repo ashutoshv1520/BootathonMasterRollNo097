@@ -1,0 +1,27 @@
+body{
+	background-image: linear-gradient(to bottom, #99ccff 0%, #66ffff 100%);
+	margin: 10px;
+}
+
+strong{
+	text-decoration: underline;
+	font-size: 20px;
+	color: midnightblue;
+}
+p strong{
+	background-color: rgba(0,255,174,0.79);
+}
+p,li{
+	font-size: 20px;
+	color: indigo;
+	margin-left: 20px;
+}
+li{
+	font-style: italic;
+}
+.heading{
+	text-decoration: underline;
+	font-size: 20px;
+	color: midnightblue;
+	font-weight: bold;
+}
