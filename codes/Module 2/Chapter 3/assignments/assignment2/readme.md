@@ -1,0 +1,1 @@
+# Assignment2: Enter the three sides of a triangle, find its type: isosceles, equilateral or scalene triangle & also check whether it is a right angled triangle.

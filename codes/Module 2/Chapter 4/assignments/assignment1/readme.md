@@ -1,0 +1,2 @@
+# Assignment1: Accept the number of numbers that user will enter in a text box. Accept those many numbers from the user using prompt tag (they can be +ve numbers, -ve numbers or 0). In the end, display in the p tag, No.  of positive numbers entered, No. of negative numbers entered, No. of times 0 was entered.
+- # Hint: keep separate counting variables for +ve, -ve and 0 and print the total for each. Use if else and while loop.

@@ -1,0 +1,1 @@
+# Assignment1: Check whether the entered number is even or odd.

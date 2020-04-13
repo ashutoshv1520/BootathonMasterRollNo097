@@ -1,1 +1,10 @@
-# This is going to be assignments folder 
+# This assignments folder for Chapter 2
+# String Functions
+## Contents:
+1. Assignment1: Write a program to accept a string e.g. “TYPESCRIPT” and perform the following operations :
+- Display SCRIPT using substring().
+- Determine the position of ‘E’.
+2. Assignment2:  Write a program to accept a string e.g. “Virtual Labs Bootathon 2020” and perform the following operations :
+- Convert the given string to uppercase.
+- Convert the string to lowercase.
+- Split the elements of the string at spaces.
