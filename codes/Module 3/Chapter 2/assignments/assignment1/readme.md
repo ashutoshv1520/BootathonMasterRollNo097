@@ -1,0 +1,1 @@
+# Assignment1: Resultant of force using function

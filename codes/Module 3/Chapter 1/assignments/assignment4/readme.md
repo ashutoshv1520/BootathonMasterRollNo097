@@ -1,0 +1,1 @@
+# Assignment4: Resultant of force using array

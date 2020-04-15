@@ -1,0 +1,13 @@
+body{
+	background-image: linear-gradient(to bottom, #99ccff 0%, #66ffff 100%);
+	margin: 10px;
+}
+h1{
+    text-decoration: underline;
+}
+p{
+    font-weight: bold;
+}
+h3{
+    font-style: italic;
+}
